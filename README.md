@@ -45,7 +45,9 @@ To disconnect the server connection, press `command+C`
 
 ## Tests
 
-You can access the deployed application hosted on Heroku [here](https://financial-advisor-api.herokuapp.com/api-docs/#/).
+You can access the deployed application hosted on Heroku [here](https://dry-citadel-07916.herokuapp.com).
+
+![GIF](https://github.com/benkaan001/lite-budget-PWA/blob/main/assets/lite-budget.gif)
 
 ## Contributing
 
